@@ -1,1 +1,4 @@
- https://gokulpvtr.github.io/Calculator/
+https://calculator-gokulpvtr.netlify.app/
+
+https://gokulpvtr.github.io/Calculator/
+
